@@ -1,5 +1,5 @@
 ---
-title: "Chi Zhang"
+title: "任建超"
 image: misc/info/photo.png
 about:
   id: hero-heading
@@ -8,11 +8,11 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
+      text: renjianchao@yzu.edu.cn
+      href: mailto:renjianchao@yzu.edu.cn
     - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
+      text: 任建超
+      href: https://jianchaoren.github.io/
     - icon: linkedin
       text: Chi Zhang
       href: https://www.linkedin.com/in/chizapoth/
@@ -22,11 +22,7 @@ about:
 
 Hello! 
 
-I am a data scientist at **Roche**, working on clinical data science and open source software in pharma: [pharmaverse](https://pharmaverse.org).
+I am a teacher at **Yangzhou University**(www.yzu.edu.cn), working on agricultural economic management.
 
-I'm building [Data Apothecary's Notes](https://chizapoth.github.io/data-apothecary-notes/), a series of notes on modern data science skills for **drug development and clinical trials**.
 
-Previously, I worked in **public health and academia** in Norway (2019-2024). See [Archive](projects/projects.qmd) for past projects.
-
-I enjoy cooking and spending time in the mountains.
 :::
